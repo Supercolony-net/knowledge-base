@@ -1,0 +1,12 @@
+### 7 April 2021
+
+1. Learning blockchains fundamentals:
+    1. Lecture 7: [Proof-of-work and mining](https://youtu.be/GquMLnrFlPk)
+    2. Lecture 8: [Mining In-Depth](https://youtu.be/pjDbQDNOBYY)
+    3. Lecture 9: [Mechanics of Cryptocurrency](https://youtu.be/sI5I40jNci0)
+2. Learning rust:
+    1. [Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
+    2. [Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+    3. Codewars: passed 3 rust [katas](https://www.codewars.com/kata/search/rust?q=&r[]=-8&beta=false) 8/7 kyu
+3. Learning Polkadot:
+    1. [Architecture in depth](https://youtu.be/xBfC6uTjvbM)
