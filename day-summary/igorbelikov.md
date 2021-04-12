@@ -26,3 +26,12 @@
 - Learn how the smart contracts work and how to customize blockchain using Smart Contracts
 - Learn how to add the EVM pallet to the Substrate based blockchain (to make possible to use Solidity in Substrate based blockchain)
 - Learn Rust language (basics about macros)
+
+----
+
+### 12th of April 2021
+
+- Learn basics about Solidity
+- Go through tutorials about OpenZeppelin
+- Learn how to build smart contract
+- Learn some additional infor about Ethereum stack (learn more about accounts, EVM, storage and how smart contracts are deployed)
