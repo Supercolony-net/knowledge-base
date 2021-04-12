@@ -10,3 +10,29 @@
     3. Codewars: passed 3 rust [katas](https://www.codewars.com/kata/search/rust?q=&r[]=-8&beta=false) 8/7 kyu
 3. Learning Polkadot:
     1. [Architecture in depth](https://youtu.be/xBfC6uTjvbM)
+
+
+### 8 April 2021
+
+1. Learning blockchains fundamentals:
+   1. Lecture 10: [Network concepts](https://youtu.be/DE8FeYYwE2s)
+   2. Lecture 11: [Achieving Consensus](https://youtu.be/7eVxCZJ4vw4)
+   3. Lecture 12: [Using Cryptocurrency](https://youtu.be/bB2E0PI2N_o)
+2. Learning rust:
+   1. Using Structs to Structure Related Data
+   2. Method Syntax
+   3. Enums and Pattern Matching
+   4. Packages, Crates, and Modules
+3. Learning Polkadot & Substrate:
+   1. [Gavin Wood about Substrate](https://youtu.be/0IoUZdDi5Is)
+
+### 9 April 2021
+
+1. Learning blockchains fundamentals:
+   1. Lecture 13: [Cryptocurrency and Anonymity](https://youtu.be/okYBL9Ce7eA)
+   2. Lecture 14: [Non-SHA256 Proof-of-Work](https://youtu.be/7eVxCZJ4vw4)
+   3. Lecture 15: [Proof-of-Stake](https://youtu.be/CDvonnvqrs4)
+2. Learning rust:
+   1. Collections
+   2. Error handling
+   3. Generics
