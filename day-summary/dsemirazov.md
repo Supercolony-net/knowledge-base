@@ -36,3 +36,14 @@
    1. Collections
    2. Error handling
    3. Generics
+
+
+### 12 April 2021
+
+1. Learning blockchains fundamentals:
+   1. Lecture 16: [Blockchain as a Platform](https://youtu.be/4YRMmHwaalU)
+   2. Lecture 17: [Blockchain Applications](https://youtu.be/hfK-JyVLYVs)
+   3. Smart Contracts & [Solidity](https://docs.soliditylang.org/en/v0.8.3/)
+2. Learning rust:
+   1. Traits
+   2. Lifetimes
