@@ -8,3 +8,13 @@
 - Learn basics of Substrate network, the building blocks of each Substrate node, the basics of managing network using UI
 - Learn some new features of Rust such as attributes, traits, .toml files
 - Learn building blocks of Pallets
+
+----
+
+
+### 8th of April 2021
+
+- Reproduce tutorials from Substrate locally
+- Reading about Cargos's [features], Rust attributes, and determenistic builds in Rust
+- Reading about Substrate Node's runtimes and how to expand its functionality
+- Create custom Pallet
