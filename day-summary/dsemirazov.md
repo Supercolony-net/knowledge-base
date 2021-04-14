@@ -47,3 +47,14 @@
 2. Learning rust:
    1. Traits
    2. Lifetimes
+
+
+### 13 April 2021
+
+1. Learning blockchains fundamentals:
+   1. Lecture 18: [Sidechains and Cross-chain Communication](https://youtu.be/FO0gHr4FlI8)
+   2. Lecture 19: [Smart Contracts, Part 1](https://youtu.be/plroqxZqfc8)
+   2. Lecture 20: [Smart Contracts, Part 2](https://youtu.be/jSIp7al7iQs)
+2. Learning rust:
+   1. [Build tutorials project](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
+   2. [Solidity example project](https://docs.soliditylang.org/en/v0.8.3/solidity-by-example.html#)
