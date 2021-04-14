@@ -35,3 +35,19 @@
 - Go through tutorials about OpenZeppelin
 - Learn how to build smart contract
 - Learn some additional infor about Ethereum stack (learn more about accounts, EVM, storage and how smart contracts are deployed)
+
+----
+
+### 13th of April 2021
+
+- Learn Solidity
+- Complete tutorial from Openzeppelin
+- Setup env and tools for Solidity development (Truffle, Hardhat, VS Code extensions, etc.)
+- Read Solidity docs
+
+----
+
+### 14th of April 2021
+
+- Write some test contracts on Solidity
+- Read Solidity docs
