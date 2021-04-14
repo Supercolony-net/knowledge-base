@@ -57,4 +57,5 @@
    2. Lecture 20: [Smart Contracts, Part 2](https://youtu.be/jSIp7al7iQs)
 2. Learning rust:
    1. [Build tutorials project](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
-   2. [Solidity example project](https://docs.soliditylang.org/en/v0.8.3/solidity-by-example.html#)
+   2. [Set up Ethereum dev](https://medium.com/blockchain-developer/setting-up-a-professional-development-environment-for-ethereum-smart-contracts-development-77399a20f878)
+   3. [Solidity example project](https://docs.soliditylang.org/en/v0.8.3/solidity-by-example.html#)
