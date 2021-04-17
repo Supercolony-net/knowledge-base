@@ -36,3 +36,33 @@
    1. Collections
    2. Error handling
    3. Generics
+
+
+### 12 April 2021
+
+1. Learning blockchains fundamentals:
+   1. Lecture 16: [Blockchain as a Platform](https://youtu.be/4YRMmHwaalU)
+   2. Lecture 17: [Blockchain Applications](https://youtu.be/hfK-JyVLYVs)
+   3. Smart Contracts & [Solidity](https://docs.soliditylang.org/en/v0.8.3/)
+2. Learning rust:
+   1. Traits
+   2. Lifetimes
+
+
+### 13 April 2021
+
+1. Learning blockchains fundamentals:
+   1. Lecture 18: [Sidechains and Cross-chain Communication](https://youtu.be/FO0gHr4FlI8)
+   2. Lecture 19: [Smart Contracts, Part 1](https://youtu.be/plroqxZqfc8)
+   2. Lecture 20: [Smart Contracts, Part 2](https://youtu.be/jSIp7al7iQs)
+2. Learning rust:
+   1. [Build tutorials project](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
+3. Learning Smart Contracts:
+   2. [Set up Ethereum dev](https://medium.com/blockchain-developer/setting-up-a-professional-development-environment-for-ethereum-smart-contracts-development-77399a20f878)
+
+### 14 April 2021
+
+1. Learning Smart Contracts:
+   1. [Solidity example project](https://docs.soliditylang.org/en/v0.8.3/solidity-by-example.html#)
+2. Learning rust:
+   1. Functional language features
