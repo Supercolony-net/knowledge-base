@@ -11,10 +11,43 @@
 
 ----
 
-
 ### 8th of April 2021
 
 - Reproduce tutorials from Substrate locally
 - Reading about Cargos's [features], Rust attributes, and determenistic builds in Rust
 - Reading about Substrate Node's runtimes and how to expand its functionality
 - Create custom Pallet
+
+----
+
+### 9th of April 2021
+
+- Learn basics about the smart contracts
+- Learn how the smart contracts work and how to customize blockchain using Smart Contracts
+- Learn how to add the EVM pallet to the Substrate based blockchain (to make possible to use Solidity in Substrate based blockchain)
+- Learn Rust language (basics about macros)
+
+----
+
+### 12th of April 2021
+
+- Learn basics about Solidity
+- Go through tutorials about OpenZeppelin
+- Learn how to build smart contract
+- Learn some additional infor about Ethereum stack (learn more about accounts, EVM, storage and how smart contracts are deployed)
+
+----
+
+### 13th of April 2021
+
+- Learn Solidity
+- Complete tutorial from Openzeppelin
+- Setup env and tools for Solidity development (Truffle, Hardhat, VS Code extensions, etc.)
+- Read Solidity docs
+
+----
+
+### 14th of April 2021
+
+- Write some test contracts on Solidity
+- Read Solidity docs
