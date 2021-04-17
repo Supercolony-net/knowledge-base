@@ -66,3 +66,17 @@
    1. [Solidity example project](https://docs.soliditylang.org/en/v0.8.3/solidity-by-example.html#)
 2. Learning rust:
    1. Functional language features
+
+### 15 April 2021
+
+1. Learning Smart Contracts:
+   1. [Configure local env](https://www.trufflesuite.com/docs/truffle/getting-started/installation)
+   2. [FE with React](https://medium.com/coinmonks/simplest-way-to-connect-your-smart-contracts-to-the-front-end-react-with-web3-js-1e75702ea36a)
+   3. [web3 API](https://web3js.readthedocs.io/en/v1.3.4/)
+
+### 16 April 2021
+
+1. Learning Smart Contracts:
+   1. [Learn testing with truffle](https://www.trufflesuite.com/docs/truffle/testing/writing-tests-in-javascript)
+   2. [Smart Contract tests best practices](https://gus-tavo-guim.medium.com/beautifying-your-smart-contract-tests-with-javascript-4d284efcb2e8)
+   3. [Ganache](https://www.trufflesuite.com/docs/ganache/quickstart)
