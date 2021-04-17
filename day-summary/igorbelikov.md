@@ -51,3 +51,19 @@
 
 - Write some test contracts on Solidity
 - Read Solidity docs
+
+----
+
+### 15th of April 2021
+
+- Learn how to work with UI in blockchains
+- Learn about web3js, ABI, how to call ABI of deployed Smart contract using we3js.eth
+- Reading articles about AMM on Medium
+
+----
+
+### 16th of April 2021
+
+- Learn more aobut atomation tests for Solidity Smart Contracts
+- Learn about vulnerabilities in Solidity
+- Read the Ethereum docs
