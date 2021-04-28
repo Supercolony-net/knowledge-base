@@ -20,3 +20,4 @@
         - [Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
         - [Architecture in depth [Video]](https://youtu.be/xBfC6uTjvbM)
         - [Learn Basics](https://wiki.polkadot.network/docs/en/learn-launch)
+        - [Polka projects](https://polkaproject.com/)
