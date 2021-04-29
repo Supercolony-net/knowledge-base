@@ -2,12 +2,12 @@
 
 
 ## Learn
-- [Blockchain Primer](education-plan/blockchains-primer.md):
+- [Blockchain Primer](education-plan/blockchains-primer.md)
   
     Learn blockchains and cryptocurrency fundamentals. Suitable for dev and non-dev folks. 
   
 
-- [Blockchains for DEV](education-plan/blockchains-for-dev.md):
+- [Blockchains for DEV](education-plan/blockchains-for-dev.md)
   
     Learn blockchains specifics, Ethereum (solidity) and Polkadot (rust, substrate, ink) ecosystem 
 
