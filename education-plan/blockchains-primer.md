@@ -1,7 +1,7 @@
 # Blockchains Primer
 
-1. [What is bitcoin? [Article]](https://academy.binance.com/en/articles/what-is-bitcoin)
-2. [Grokking bitcoin [Book]](https://www.manning.com/books/grokking-bitcoin)
+1. [What is bitcoin?](https://academy.binance.com/en/articles/what-is-bitcoin)
+2. [Grokking bitcoin](https://www.manning.com/books/grokking-bitcoin)
 3. [Good start point for learning Blockchain](https://academy.binance.com/en/start-here)
 4. [Investopedia - the best resource about financial news, tutorials and other articles](https://www.investopedia.com/)
 5. [A few words about yield farming](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi)
