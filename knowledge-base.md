@@ -12,6 +12,6 @@
     Learn blockchains specifics, Ethereum (solidity) and Polkadot (rust, substrate, ink) ecosystem 
 
 
-## Installation guides
+## Build
 
 - [Configure integration tests for Solidity Smart Contracts](guides/solidity-integration-tests.md)
