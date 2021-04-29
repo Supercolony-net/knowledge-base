@@ -51,12 +51,13 @@ describe('SCOL Token: Basic', async () => {
     let contract
 
     beforeEach(async () => {
-        contract = await SCOLToken.new(minter, { from: owner })
+        contract = await SCOLToken.new(minter, {from: owner})
     })
-    
+
     it('should be initialized with owner', async () => {
         expect(await contract.owner()).to.equal(owner)
     })
+})
 ```
 3. **How to test Events and Transaction reverts?** Use [test-helpers API](https://docs.openzeppelin.com/test-helpers/0.5/api):
 ```javascript
@@ -66,5 +67,52 @@ it('should change owner', async () => {
     const receipt = await contract.transferOwnership(admin)
     expect(await contract.owner()).to.equal(admin)
     expectEvent(receipt, 'OwnershipTransferred', { previousOwner: owner, newOwner: admin })
+})
+```
+
+### Recommendations
+
+- You could hide complex and repetitive logic inside test helpers, which could also share context. Use destructuring in function parameters to default some test values.
+
+*VestingHelperContext.js*
+```javascript
+class VestingHelpersContext {
+  constructor({ SCOLToken, Vesting, SimpleMinter }) {
+    this.SCOLToken = SCOLToken
+    this.Vesting = Vesting
+    this.SimpleMinter = SimpleMinter
+  }
+
+  async configure(minter) {
+    this.tokenContract = await this.SCOLToken.new(minter)
+    this.vestingContract = await this.Vesting.new(this.tokenContract.address)
+    this.simpleMinterContract = await this.SimpleMinter.new(this.tokenContract.address)
+    /* some configuration */ 
+  }
+
+  async allowVesting({ users, allowAmount = 100_000 }) { /* ... */ }
+  async vest({ user, amount = 10_000, totalSeconds = 10, cancellable = false }) { /* ... */ }
+  async setTimestamp(seconds) { /* ... */ }
+  async getVestingData(user) { /* ... */ }
+}
+```
+
+*vesting.tests.js*
+```javascript
+describe('Vesting: Bulk claim', () => {
+    const [minter, user, user1, user2, user3] = accounts
+    const helpers = new VestingHelpersContext({SCOLToken, Vesting, SimpleMinter})
+
+    beforeEach(async () => {
+        await helpers.configure(minter)
+        await helpers.allowVesting({users: [user]})
+    })
+
+    it('should increment addresses count, when call vest', async () => {
+        const {vestingContract, vest} = helpers
+        await vest({user, amount: 100})
+        await vest({user, amount: 1000})
+        expect(await vestingContract.countOfAddresses()).to.be.bignumber.equal('1')
+    })
 })
 ```
