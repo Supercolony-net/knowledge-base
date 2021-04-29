@@ -33,13 +33,13 @@ global.expect = chai.expect
 4. *Optional*. Configure test env with `test-environment.config.js` ([more info](https://docs.openzeppelin.com/test-environment/0.1/getting-started#configuration))
 4. Run tests with `npm run test` or `npm run test -- -g "Specific test teamplate"`
 
-### Recommendation
+### FAQ
 
-1. **How test big numbers?**. If you add `require('@openzeppelin/test-helpers')`, `BigNumber` will be supported by default. Use chai to assert BN output:
+1. **How test big numbers?** If you add `require('@openzeppelin/test-helpers')`, `BigNumber` will be supported by default. Use chai to assert BN output:
 ```javascript
 expect(await vestingContract.balanceOf(user)).to.be.bignumber.equal('1000') 
 ```
-2. **How to set owner?**. Use [test-environment API](https://docs.openzeppelin.com/test-environment/0.1/api):
+2. **How to set owner?** Use [test-environment API](https://docs.openzeppelin.com/test-environment/0.1/api):
 ```javascript
 const { accounts, defaultSender, contract } = require('@openzeppelin/test-environment');
 
@@ -58,7 +58,7 @@ describe('SCOL Token: Basic', async () => {
         expect(await contract.owner()).to.equal(owner)
     })
 ```
-3. **How to test Events and Transaction reverts?**. Use [test-helpers API](https://docs.openzeppelin.com/test-helpers/0.5/api):
+3. **How to test Events and Transaction reverts?** Use [test-helpers API](https://docs.openzeppelin.com/test-helpers/0.5/api):
 ```javascript
 const { expectEvent, expectRevert } = require('@openzeppelin/test-helpers');
 
