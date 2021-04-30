@@ -4,6 +4,6 @@
   
     Learn blockchains and cryptocurrency fundamentals in dev perspective.
   
-- [Polkadot Beginner](polkadot-beginner)
+- [Polkadot Beginner](polkadot-beginner.md)
   
     Learn Polkadot specific fundamentals in dev perspective.
