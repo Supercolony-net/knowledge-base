@@ -8,7 +8,7 @@ Since we use Markdown to write this documentation and also extensively throughou
 
 ## Learn
 
-- [Blockchain Primer](education-plan/blockchains-primer.md)
+- [Blockchain Primer](blockchain-generic)
   
     Learn blockchains and cryptocurrency fundamentals. Suitable for dev and non-dev folks.
   
