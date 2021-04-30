@@ -1,5 +1,54 @@
 # Blockchains Primer
 
+## Intro
+
+Intro should be added here
+
+## Sections
+
+// TBD
+
+There should be sections accompanied with the comments, not just links, but links are good
+
+## Crypto/Fiat on/off ramp
+
+Practtical step guide should be here 
+(Or probably a link to it - coz making it a separate page is better)
+
+- Binance
+- Kuna
+
+## Difference between bitcon(currency) and blockchain(it's technology)
+
+## What is token/coin?
+
+The difference between token and coin is ...
+
+## What does a stablecoin mean?
+
+## What is token economics
+
+## What is a node?
+
+## What's the difference between node & wallet?
+
+## What is a dapp
+
+## What is Metamask?
+
+## What is a multisig?
+
+## What is Polkadot? Why it's unique
+
+## What is Parity/web3
+
+## Links
+
+
+some inpirational videos should be added to links also 
+Like the general concept videos 
+Buterin/Gavin Wood for example
+
 1. [What is bitcoin?](https://academy.binance.com/en/articles/what-is-bitcoin)
 2. [Grokking bitcoin](https://www.manning.com/books/grokking-bitcoin)
 3. [Good start point for learning Blockchain](https://academy.binance.com/en/start-here)
