@@ -12,7 +12,7 @@ Since we use Markdown to write this documentation and also extensively throughou
   
     Learn blockchains and cryptocurrency fundamentals. Suitable for dev and non-dev folks.
   
-- [Blockchains for DEV](education-plan/blockchains-for-dev.md)
+- [Blockchains for DEV](blockchain-advanced)
   
     Learn blockchains specifics, Ethereum (solidity) and Polkadot (rust, substrate, ink) ecosystem 
 
