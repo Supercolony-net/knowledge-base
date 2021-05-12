@@ -7,6 +7,7 @@
     1. Solidity
         - [Solidity: intro to Smart Contracts](https://docs.soliditylang.org/en/v0.4.24/introduction-to-smart-contracts.html)
         - [Set up Ethereum local env](https://medium.com/blockchain-developer/setting-up-a-professional-development-environment-for-ethereum-smart-contracts-development-77399a20f878)
+        - [The New Solidity Dev Stack: Hardhat + Ethers + Waffle + Typescript [Tutorial]](https://rahulsethuram.medium.com/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-tutorial-f07917de48ae)
         - [How data stored in Ethereum](https://medium.com/hackernoon/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033)
         - [Solidity by example](https://docs.soliditylang.org/en/v0.8.3/solidity-by-example.html#)
         - [Solidity memory & storage](https://medium.com/coinmonks/what-the-hack-is-memory-and-storage-in-solidity-6b9e62577305)
