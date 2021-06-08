@@ -1,5 +1,10 @@
 # Smart Contract Developer education plan for me
 
+## Rust refresh
+
+  * [Cargo](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html)
+  * [Advanced traits](https://doc.rust-lang.org/book/ch19-03-advanced-traits.html)
+
 ## [General blockchain research](https://github.com/Supercolony-net/knowledge-base/tree/main/blockchain-generic)
 * [Consensus algorithms](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
 * Different blockchain architectures ([Ethereum](https://www.flentas.com/ethereum-architectural-overview),
