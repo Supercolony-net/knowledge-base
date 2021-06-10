@@ -19,3 +19,16 @@
 3. Read [data](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
    on different consensus algorithms (most of them)
 4. [Research](https://academy.binance.com/en/articles?page=1&tags=blockchain) different cryptocurrency technologies 
+
+## Thu, June 10, 2021
+
+### Rust
+
+Write an article on macros for knowledge-base, discuss in meeting
+
+### Blockchain
+
+Finish up article on how to buy/sell crypto
+
+[Research](https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture)
+on building private / permissioned blockchain
