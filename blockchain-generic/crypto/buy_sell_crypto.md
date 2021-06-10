@@ -75,6 +75,7 @@ Still, there are some disadvantages. to name a couple: less profitable exchange 
 potential scam, slower processing.
 
 Some exchange rates are outrageous:
+
 ![awful exchange rate](img_6.png)
 
 (at the time of writing, global average BTC/USD rate is 36768 USD for 1 BTC,
