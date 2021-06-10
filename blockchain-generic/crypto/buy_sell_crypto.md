@@ -78,8 +78,8 @@ Some exchange rates are outrageous:
 
 ![awful exchange rate](img_6.png)
 
-(at the time of writing, global average BTC/USD rate is 36768 USD for 1 BTC,
-these exchanges offer more than 50000 USD for 1 BTC)
+(at the time of writing, global average BTC/USD rate is 36,768 USD for 1 BTC,
+these exchanges offer more than 50,000 USD for 1 BTC)
 
 Still, there are plenty with good rates.
 
