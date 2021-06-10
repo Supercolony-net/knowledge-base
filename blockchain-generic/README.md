@@ -12,7 +12,7 @@ There should be sections accompanied with the comments, not just links, but link
 
 ## Crypto/Fiat on/off ramp
 
-[link](buy_sell_crypto.md)
+[link](crypto/buy_sell_crypto.md)
 
 ## Difference between bitcon(currency) and blockchain(it's technology)
 
