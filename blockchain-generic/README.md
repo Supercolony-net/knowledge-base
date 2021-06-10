@@ -12,11 +12,7 @@ There should be sections accompanied with the comments, not just links, but link
 
 ## Crypto/Fiat on/off ramp
 
-Practtical step guide should be here 
-(Or probably a link to it - coz making it a separate page is better)
-
-- Binance
-- Kuna
+[link](crypto/buy_sell_crypto.md)
 
 ## Difference between bitcon(currency) and blockchain(it's technology)
 
