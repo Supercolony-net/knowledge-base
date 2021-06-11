@@ -32,3 +32,21 @@ Finish up article on how to buy/sell crypto
 
 [Research](https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture)
 on building private / permissioned blockchain
+
+## Fri, June 11, 2021
+
+### Rust
+
+Review Green's code in openbrush
+
+### Solidity
+
+Learn up to 
+[control structures](https://docs.soliditylang.org/en/v0.8.5/control-structures.html)
+
+Check [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) contracts
+
+### Cardano
+
+Review Cardano in general, check the roadmap, find info on development phases,
+explore smart contract execution possibilities on Cardano
