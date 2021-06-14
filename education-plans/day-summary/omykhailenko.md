@@ -50,3 +50,13 @@ Check [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) contracts
 
 Review Cardano in general, check the roadmap, find info on development phases,
 explore smart contract execution possibilities on Cardano
+
+## Mon, Jun 14, 2021
+
+### Polkadot
+
+Get a thorough look into Polkadot's [wiki](https://wiki.polkadot.network/docs/en/learn-launch).
+Learn how the blockchain functions in general, learn parachains/parathreads,
+check the state of polkadot ecosystem.
+
+Plans for tomorrow: research Substrate doc, complete tutorials
