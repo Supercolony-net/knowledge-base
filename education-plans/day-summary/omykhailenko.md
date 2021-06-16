@@ -60,3 +60,8 @@ Learn how the blockchain functions in general, learn parachains/parathreads,
 check the state of polkadot ecosystem.
 
 Plans for tomorrow: research Substrate doc, complete tutorials
+
+### Tue, Jun 15, 2021
+
+Complete several Substrate tutorials, work with pallets
+
