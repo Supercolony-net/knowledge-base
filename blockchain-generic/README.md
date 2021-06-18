@@ -8,7 +8,7 @@ This page is intended to be a quick reference for main blockchain concepts.
 
 // TBD
 
-There should be sections accompanied with the comments, not just links, but links are good
+There should be sections accompanied by the comments, not just links, but links are good
 
 ## Crypto/Fiat on/off ramp
 
@@ -51,6 +51,11 @@ to offer price stability and is backed by a reserve asset.
 Stablecoins have gained traction as they attempt to offer the best of both
 worlds: the instant processing and security or privacy of payments of cryptocurrencies,
 and the volatility-free stable valuations of fiat currencies.
+
+An example of a stablecoin would be Tether USD - USDT. It is backed by the
+funds (US dollars) that the founder company possesses. For instance, if some other
+company was to buy USDT, they would deposit US dollars to the founder (Tether), and
+according amount of USDT would be created (emitted). This way USDT maintains stability.
 
 [source](https://www.investopedia.com/terms/s/stablecoin.asp)
 
@@ -104,7 +109,15 @@ signatures (confirmations) of several owners of a particular public key to be cr
 This feature is particularly useful for big companies that want to secure their
 assets and ensure no separate party is in charge of company's resources.
 
+[Bitcoin example](https://en.bitcoin.it/wiki/Multi-signature)
+
 ## What is Polkadot? Why it's unique
+
+Polkadot is a third-generation blockchain technology, which enables maximal scalability
+while maintaining security of a decentralized network.
+
+It is unique in that it allows for connection of multiple blockchain with a shared
+set of validators, which makes block finalization predictable.
 
 See [here](../blockchain-advanced/polkadot-beginner.md)
 
@@ -136,3 +149,4 @@ Buterin/Gavin Wood for example
 15. [What is Oracle. Oracle in Blockchain explained](https://academy.binance.com/en/glossary/oracle)
 16. [An Introduction to Binance Bridge](https://academy.binance.com/en/articles/an-introduction-to-binance-bridge)
 17. [BEP2, BEP20, ERC20, OMNI & TRC20 networks – What’s the difference?](https://coinguides.org/bep2-bep20-erc20-the-difference/)
+18. [Buterin about Ethereum 2.0](https://youtu.be/XW0QZmtbjvs)
