@@ -30,12 +30,12 @@ of Polkadot.
 The things in 'basics' section are far from basic though, so be sure **NOT TO SKIP**
 this whole section. It is the core of Polkadot.
 
-After completing that, proceed to Substrate / Ink.
+After completing that, proceed to Substrate / !ink.
 
-### Substrate / Ink
+### Substrate / !ink
 
 It depends on your needs, but it is generally good to know both, at least a little.
-Ink works on Substrate, so learning Substrate benefits ink developers, while 
+!ink works on Substrate, so learning Substrate benefits !ink developers, while 
 Substrate developers might want to know how smart contracts work when designing
 their runtime.
 
@@ -45,9 +45,9 @@ Resources:
  It is a good idea to read through docs topics one by one, as well as to complete
 [tutorials](https://substrate.dev/en/tutorials)
 
-* [Ink tutorial](https://substrate.dev/substrate-contracts-workshop/#/)
+* [!ink tutorial](https://substrate.dev/substrate-contracts-workshop/#/)
 
-Great practical tutorial for ink!.
+Great practical tutorial for !ink.
 
 * [Substrate recipes](https://substrate.dev/recipes/)
 
@@ -55,9 +55,9 @@ Practical Rust guides to Substrate.
 
 ### Additional resources
 
-[Ink stackoverflow](https://stackoverflow.com/questions/tagged/rust-ink)
+[!ink stackoverflow](https://stackoverflow.com/questions/tagged/rust-ink)
 
 [Substrate stackoverflow](https://stackoverflow.com/questions/tagged/substrate)
 
 [A programming 
-game on ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink)
+game on !ink](https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink)
