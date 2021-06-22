@@ -63,5 +63,8 @@ Plans for tomorrow: research Substrate doc, complete tutorials
 
 ### Tue, Jun 15, 2021
 
-Complete several Substrate tutorials, work with pallets
+Complete several Substrate tutorials:
+[first substrate chain](https://substrate.dev/docs/en/tutorials/create-your-first-substrate-chain/),
+[add a pallet to your runtime](https://substrate.dev/docs/en/tutorials/add-a-pallet/);
+work with pallets
 
